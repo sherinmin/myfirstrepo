@@ -13,6 +13,7 @@ public class Main {
 	private static void displayGreeting(){
 		System.out.println("to the app....");
 		System.out.println("Test1");
+		System.out.println("Test 2");
 	}
 
 }
